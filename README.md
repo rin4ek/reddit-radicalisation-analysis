@@ -17,8 +17,10 @@ The project combines multiple analytical approaches to explore whether online co
 ## Repository Structure
 
 notebooks/ - analysis notebooks
+
 data/ - dataset (sample)
 
 ## Goal
 
 The goal is to demonstrate an end-to-end computational social science workflow, from data collection to modeling and interpretation of social dynamics in online environments.
+
